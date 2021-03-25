@@ -6,7 +6,7 @@
  * Single Responsibility - The class does only one thing. It generates lists.
  * Open/closed - The class is open for extension and closed for modification. 
  * Liskov Substitution - It's clearly a class that generates lists
- * Interface Segregation - It not depend on methods or interfaces
+ * Interface Segregation - It does not depend on methods or interfaces
  * Dependency Inversion - It does not depend on low-level modules, even when they exist.
  */
 
