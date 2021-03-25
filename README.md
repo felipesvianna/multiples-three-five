@@ -17,7 +17,8 @@ composer install
 
 ## Usage
 
-Open a web browser and navigate to the PHP server url on /multiples-three-five directory
+Open a web browser and navigate to the PHP server url on /multiples-three-five directory.
+E.g: http://localhost/multiples-three-five
 
 ## Testing
 
