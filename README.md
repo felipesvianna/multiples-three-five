@@ -15,6 +15,10 @@ cd multiples-three-five
 composer install
 ```
 
+## Usage
+
+Access the PHP server url from your browser on /multiples-three-five directory
+
 ## Testing
 
 Unit tests where implemented using [PHPUnit](https://phpunit.de/).
