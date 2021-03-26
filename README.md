@@ -22,7 +22,7 @@ E.g: http://localhost/multiples-three-five
 
 ## Testing
 
-Unit tests where implemented using [PHPUnit](https://phpunit.de/).
+Unit tests were implemented using [PHPUnit](https://phpunit.de/).
 
 ```
 # Command to run the tests
